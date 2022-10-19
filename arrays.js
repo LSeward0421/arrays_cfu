@@ -12,3 +12,7 @@ console.log(ages);
 areTheyHappy.unshift(true);
 console.log(areTheyHappy);
 
+/* Index positions are used to indicate the position of an element within an array. Most languages start from position '0' and then proceed by 1 for each element. 
+*/
+console.log(catNames[2]);
+// output will be 'Phillip' which is index position 2
