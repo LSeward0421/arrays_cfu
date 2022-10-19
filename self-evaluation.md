@@ -1,0 +1,3 @@
+- I feel *fairly* confident with the Arrays content. 
+- I would like to work more on Array methods and understanding their outputs. 
+- How can you create an initiliaze an array with booleans? What might be a practical application for that?
